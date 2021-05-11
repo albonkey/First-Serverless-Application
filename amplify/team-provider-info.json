@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-introserverless-dev-183426-authRole",
+      "UnauthRoleArn": "arn:aws:iam::658631780016:role/amplify-introserverless-dev-183426-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::658631780016:role/amplify-introserverless-dev-183426-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-introserverless-dev-183426-deployment",
+      "UnauthRoleName": "amplify-introserverless-dev-183426-unauthRole",
+      "StackName": "amplify-introserverless-dev-183426",
+      "StackId": "arn:aws:cloudformation:us-west-2:658631780016:stack/amplify-introserverless-dev-183426/c0537690-8aae-11eb-9cf4-06d46ccf9475",
+      "AmplifyAppId": "d2z1217pkd1gm1"
+    },
+    "categories": {
+      "auth": {
+        "introserverless8f1988fe": {}
+      }
+    }
+  }
+}
